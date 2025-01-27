@@ -10,7 +10,6 @@
 ### 📬 Связаться со мной / Contact me
 - 📱 [Telegram](https://t.me/Chamomile211)  
 - 📧 **Email:** virskiy.roma@gmail.com  
-- 💻 **GitHub:** [MyNameRoman](https://github.com/MyNameRoman)  
 
 ---
 
