@@ -9,7 +9,7 @@
 
 ### 📬 Связаться со мной / Contact me
 - 📱 [Telegram](https://t.me/Chamomile211)  
-- 📧 **Email:** virskiy.roma@gmail.com  
+- 📧 **Email:** virskey.roma@gmail.com  
 
 ---
 
