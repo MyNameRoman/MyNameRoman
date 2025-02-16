@@ -1,75 +1,114 @@
-## Привет! 👋 / Hi there! 👋
+<div align="center">
+  <img src="https://example.com/your-image.png" height="270" />
+  <br>Welcome to my GitHub profile! 👋
+</div>
 
-### О себе / About me
-- 🚀 **Сейчас работаю над:** Саморазвитием и изучением DevOps, автоматизацией инфраструктуры / **Currently working on:** Self-improvement, learning DevOps, and infrastructure automation  
-- 🎮 **Хобби:** Игры, видеомонтаж (опыт более 9 лет) / **Hobbies:** Gaming, video editing (over 9 years of experience)  
-- 💡 **Моя цель:** Стать экспертом в DevOps, автоматизировать процессы и помогать другим / **Goal:** To become a DevOps expert, automate processes, and help others  
-
----
-
-### 📬 Связаться со мной / Contact me
-- 📱 [Telegram](https://t.me/Chamomile211)  
-- 📧 **Email:** virskey.roma@gmail.com  
-
----
-
-### 🔧 Навыки / Skills
-#### **Основные навыки / Core Skills**
-- **Языки программирования / Programming Languages:** Bash, Python, YAML  
-- **Контейнеризация / Containerization:** Docker, Docker Compose  
-- **Оркестрация / Orchestration:** Kubernetes (базовый уровень)  
-- **Мониторинг / Monitoring:** Prometheus, Grafana, Node Exporter  
-- **Автоматизация / Automation:** Ansible, Bash-скрипты  
-- **Сети и безопасность / Networking & Security:** VPN (3x-ui, Outline), UFW, базовые знания TCP/IP  
-
-#### **Операционные системы / Operating Systems**
-- Linux (Ubuntu, CentOS)  
+### 💼 About Me
+I am currently focusing on self-improvement and learning DevOps.  
+**Goals:**  
+- Becoming a DevOps expert  
+- Automating processes  
+- Helping others  
+**Hobbies:** Gaming, Video editing (over 9 years experience)
 
 ---
 
-### 🛠️ Опыт / Experience
-#### **Проекты / Projects**
-- **Собственный VPN сервер**:  
-  — Обслуживаю более 20 активных пользователей.  
-  — Настроил автоматические обновления через Bash-скрипты и Cron.  
-  — Оптимизировал производительность, перейдя с Shadowsocks на Sing-Box (VLESS), что увеличило скорость подключения на 40%.  
-  — Настроил мониторинг через Prometheus и Grafana для отслеживания состояния сервера.  
-
-- **Автоматизация инфраструктуры**:  
-  — Создал динамический инвентарь для Yandex Cloud с использованием Ansible и Yandex Cloud API.  
-  — Автоматизировал развертывание и настройку серверов, сократив время настройки на 50%.  
-
-- **Мониторинг и алертинг**:  
-  — Развернул систему мониторинга с Prometheus, Grafana и Alertmanager.  
-  — Настроил уведомления в Telegram для оперативного реагирования на сбои.  
-
-#### **Администрирование / Administration**
-- Управлял серверами на базе Linux (Ubuntu), автоматизировал обновления и резервное копирование.  
-- Написал Bash-скрипты для автоматизации рутинных задач (очистка логов, проверка дискового пространства).  
+### 📬 Contact Me
+- Telegram: [@Chamomile211](https://t.me/Chamomile211)  
+- Email: mynameromanwork@gmail.com 
 
 ---
 
-### 📚 Что изучаю / Currently learning
-- **Ansible**: Углубляю знания в автоматизации инфраструктуры.  
-- **CI/CD**: Изучаю основы GitLab CI и Jenkins.  
-- **Облачные технологии**: Работаю с Yandex Cloud, планирую изучить AWS/GCP.  
-- **Сети и безопасность**: Улучшаю навыки в настройке сетей и защите инфраструктуры.  
+### 🛠️ Core Skills
+<details>
+  <summary>Click to see all skills / Нажми для просмотра всех навыков</summary>
+
+  **Programming Languages:**  
+  - Bash, Python, YAML  
+  
+  **Containerization:**  
+  - Docker, Docker Compose
+  
+  **Orchestration:**  
+  - Kubernetes (basic level)  
+  
+  **Monitoring:**  
+  - Prometheus, Grafana, Node Exporter  
+
+  **Automations:**  
+  - Bash scripts, Ansible  
+  
+  **Networking & Security:**  
+  - VPN, UFW, basic TCP/IP knowledge  
+
+  **Operating Systems:**  
+  - Linux (Ubuntu, CentOS)
+
+</details>
 
 ---
 
-### 📊 GitHub Статистика / GitHub Stats
+### 📚 What I'm Learning
+- **Ansible:** Expanding my knowledge in infrastructure automation  
+- **CI/CD:** Learning GitLab CI and Jenkins  
+- **Cloud Technologies:** Working with Yandex Cloud, planning to study AWS/GCP  
+- **Networking & Security:** Improving skills in network configuration and security  
+
+---
+
+### 🚀 Projects
+<details>
+  <summary>Click to see my projects / Нажми для просмотра моих проектов</summary>
+
+  **VPN Server:**  
+  - Serving 20+ active users  
+  - Implemented automatic updates using Bash scripts and Cron  
+  - Improved performance by switching to Sing-Box (VLESS) with 40% faster connections  
+  - Set up monitoring with Prometheus and Grafana  
+
+  **Infrastructure Automation:**  
+  - Created a dynamic inventory for Yandex Cloud using Ansible and Yandex Cloud API  
+  - Automated server deployment and setup, reducing setup time by 50%  
+
+  **Monitoring & Alerts:**  
+  - Deployed Prometheus, Grafana, and Alertmanager for monitoring  
+  - Set up Telegram alerts for quick response to server issues
+
+</details>
+
+---
+
+### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyNameRoman&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameRoman&layout=compact&theme=tokyonight)
 
 ---
 
-### 🎯 Личное / Personal
-- 📺 [Мой Telegram-канал](https://t.me/MyNameProfursetka)  
-- 🤝 **Девиз:** Поддерживать других и расти вместе / **Motto:** Support others and grow together  
+### 🌱 Future Plans
+- Master Terraform for Infrastructure as Code (IaC)  
+- Deepen knowledge of Kubernetes and CI/CD  
+- Contribute to more open-source projects for the community
 
 ---
 
-### 🚀 Планы на будущее / Future Plans
-- Освоить Terraform для управления инфраструктурой как код (IaC).  
-- Углубить знания в Kubernetes и CI/CD.  
-- Разработать больше open-source проектов для сообщества.  
+### 🎯 Motto
+"Support others and grow together"  
+🌟 Let's build something amazing!
+
+---
+
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://down-yuantu.pngtree.com/element_our/bg/20190328/bg/5381f992cbcf9.png?e=1739717914&st=OWExNjYyZWZmMjMzMzZmMWY0MTMxNGYxNmNkYzE5MTE&n=%E2%80%94Pngtree%E2%80%94yaml+file+document+icon_4165170.png" height="128" />
+  <img src="https://cdn.iconscout.com/icon/free/png-128/docker-3628734-3029959.png" height="128" />
+  <img src="https://cdn.iconscout.com/icon/free/png-128/kubernetes-1-1175037.png" height="128" />
+  <img src="https://cdn.iconscout.com/icon/free/png-128/linux-3521549-2944967.png" height="128" />
+  <img src="https://cdn.iconscout.com/icon/free/png-128/prometheus-1174919.png" height="128" />
+  <img src="https://cdn.iconscout.com/icon/free/png-128/grafana-1174907.png" height="128" />
+</div>
+
+---
+
+### 📧 Get in Touch
+- **Telegram:** [@Chamomile211](https://t.me/Chamomile211)
+- **Email:** virskey.roma@gmail.com
