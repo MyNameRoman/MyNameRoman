@@ -6,12 +6,16 @@
 
 
 ### 💼 About Me
-I am currently focusing on self-improvement and learning DevOps.  
-**Goals:**  
-- Becoming a DevOps expert  
-- Automating processes  
-- Helping others  
-**Hobbies:** Gaming, Video editing (over 9 years experience)
+
+I am currently focusing on self-improvement and learning DevOps. 🌱  
+**🎯 Goals:**  
+- Becoming a DevOps expert 🖥️  
+- Automating processes 🤖  
+- Helping others 🤝  
+
+**🎮 Hobbies:**  
+- Gaming 🎮  
+- Video editing (over 9 years experience) 🎬
 
 ---
 
@@ -21,9 +25,13 @@ I am currently focusing on self-improvement and learning DevOps.
 
 ---
 
-### 🛠️ Core Skills
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyNameRoman&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameRoman&layout=compact&theme=tokyonight)
+---
 <details>
-  <summary>Click to see all skills</summary>
+<summary>Here's more about me</summary>
+### 🛠️ Core Skills
 
   **Programming Languages:**  
   - Bash, little bit Python, YAML  
@@ -46,8 +54,6 @@ I am currently focusing on self-improvement and learning DevOps.
   **Operating Systems:**  
   - Linux (Ubuntu, Debian, CentOS)
 
-</details>
-
 ---
 
 ### 📚 What I'm Learning
@@ -59,8 +65,6 @@ I am currently focusing on self-improvement and learning DevOps.
 ---
 
 ### 🚀 Projects
-<details>
-  <summary>Click to see my projects</summary>
 
   **VPN Server:**  
   - Serving 20+ active users  
@@ -75,14 +79,6 @@ I am currently focusing on self-improvement and learning DevOps.
   **Monitoring & Alerts:**  
   - Deployed Prometheus, Grafana, and Alertmanager for monitoring  
   - Set up Telegram alerts for quick response to server issues
-
-</details>
-
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyNameRoman&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameRoman&layout=compact&theme=tokyonight)
 
 ---
 
@@ -101,16 +97,13 @@ I am currently focusing on self-improvement and learning DevOps.
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://down-yuantu.pngtree.com/element_our/bg/20190328/bg/5381f992cbcf9.png?e=1739717914&st=OWExNjYyZWZmMjMzMzZmMWY0MTMxNGYxNmNkYzE5MTE&n=%E2%80%94Pngtree%E2%80%94yaml+file+document+icon_4165170.png" height="128" />
+  <img src="https://icon.icepanel.io/Technology/svg/Grafana.svg" height="128" />
   <img src="https://cdn.iconscout.com/icon/free/png-128/docker-3628734-3029959.png" height="128" />
-  <img src="https://cdn.iconscout.com/icon/free/png-128/kubernetes-1-1175037.png" height="128" />
-  <img src="https://cdn.iconscout.com/icon/free/png-128/linux-3521549-2944967.png" height="128" />
-  <img src="https://cdn.iconscout.com/icon/free/png-128/prometheus-1174919.png" height="128" />
-  <img src="https://cdn.iconscout.com/icon/free/png-128/grafana-1174907.png" height="128" />
+  <img src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" height="128" />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" height="128" />
+  <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" height="128" />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Ansible.png" height="128" />
 </div>
 
 ---
-
-### 📧 Get in Touch
-- **Telegram:** [@Chamomile211](https://t.me/Chamomile211)
-- **Email:** virskey.roma@gmail.com
+</details>
