@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://example.com/your-image.png" height="270" />
+  <img src="<script src="https://gist.github.com/zhw2590582/7d8c7cadbfda4d1a616f083c831e213f.js"></script>="270" />
   <br>Welcome to my GitHub profile! 👋
 </div>
 
@@ -21,7 +21,7 @@ I am currently focusing on self-improvement and learning DevOps.
 
 ### 🛠️ Core Skills
 <details>
-  <summary>Click to see all skills / Нажми для просмотра всех навыков</summary>
+  <summary>Click to see all skills</summary>
 
   **Programming Languages:**  
   - Bash, Python, YAML  
@@ -58,7 +58,7 @@ I am currently focusing on self-improvement and learning DevOps.
 
 ### 🚀 Projects
 <details>
-  <summary>Click to see my projects / Нажми для просмотра моих проектов</summary>
+  <summary>Click to see my projects</summary>
 
   **VPN Server:**  
   - Serving 20+ active users  
