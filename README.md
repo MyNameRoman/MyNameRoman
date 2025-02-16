@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://github.com/MyNameRoman/MyNameRoman/raw/main/welcome-to-my-profile.gif?raw=true" height="250" />
-  <br>Welcome to my GitHub profile! 👋
 </div>
 
 
