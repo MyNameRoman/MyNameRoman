@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="<script src="https://gist.github.com/zhw2590582/7d8c7cadbfda4d1a616f083c831e213f.js"></script>="270" />
+  <img src="https://gist.githubusercontent.com/zhw2590582/7d8c7cadbfda4d1a616f083c831e213f/raw/welcome-to-my-profile-gif.gif" height="270" />
   <br>Welcome to my GitHub profile! 👋
 </div>
+
 
 ### 💼 About Me
 I am currently focusing on self-improvement and learning DevOps.  
