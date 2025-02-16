@@ -2,20 +2,22 @@
   <img src="https://github.com/MyNameRoman/MyNameRoman/raw/main/welcome-to-my-profile.gif?raw=true" height="170" />
 </div>
 
+### 🧑‍💻 About Me
+
+I am currently focusing on self-improvement and learning DevOps. Since **August 20, 2024**, I have been actively developing my skills, aiming to become an expert in this field. My goal is to automate processes, build efficient systems, and be a valuable contributor to any team. I'm excited to continue growing as a specialist and help others along the way. 🚀
 
 
+---
 
-### 💼 About Me
-
-I am currently focusing on self-improvement and learning DevOps. 🌱  
-**🎯 Goals:**  
-- Becoming a DevOps expert 🖥️  
-- Automating processes 🤖  
-- Helping others 🤝  
-
-**🎮 Hobbies:**  
-- Gaming 🎮  
-- Video editing (over 9 years experience) 🎬
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://icon.icepanel.io/Technology/svg/Grafana.svg" height="128" />
+  <img src="https://cdn.iconscout.com/icon/free/png-128/docker-3628734-3029959.png" height="128" />
+  <img src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" height="128" />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" height="128" />
+  <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" height="128" />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Ansible.png" height="128" />
+</div>
 
 ---
 
@@ -31,6 +33,23 @@ I am currently focusing on self-improvement and learning DevOps. 🌱
 ---
 <details>
 <summary>Here's more about me</summary>
+
+---
+
+About me like a pers
+
+I am currently focusing on self-improvement and learning DevOps. 🌱  
+**🎯 Goals:**  
+- Becoming a DevOps expert 🖥️  
+- Automating processes 🤖  
+- Helping others 🤝  
+
+**🎮 Hobbies:**  
+- Gaming 🎮  
+- Video editing (over 9 years experience) 🎬
+
+---
+  
 ### 🛠️ Core Skills
 
   **Programming Languages:**  
@@ -93,17 +112,4 @@ I am currently focusing on self-improvement and learning DevOps. 🌱
 "Support others and grow together"  
 🌟 Let's build something amazing!
 
----
-
-### 🛠️ Tech Stack
-<div align="center">
-  <img src="https://icon.icepanel.io/Technology/svg/Grafana.svg" height="128" />
-  <img src="https://cdn.iconscout.com/icon/free/png-128/docker-3628734-3029959.png" height="128" />
-  <img src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" height="128" />
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" height="128" />
-  <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" height="128" />
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Ansible.png" height="128" />
-</div>
-
----
 </details>
