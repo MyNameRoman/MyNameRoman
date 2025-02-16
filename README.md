@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://gist.github.com/zhw2590582/7d8c7cadbfda4d1a616f083c831e213f/raw/2412af315cba0ee57d9047f8a6e679b367bc80c3/welcome-to-my-profile.gif" height="270" />
+  <img src="https://github.com/MyNameRoman/MyNameRoman/raw/main/welcome-to-my-profile.gif?raw=true" height="250" />
+  <br>Welcome to my GitHub profile! 👋
 </div>
+
+
 
 
 ### 💼 About Me
@@ -24,7 +27,7 @@ I am currently focusing on self-improvement and learning DevOps.
   <summary>Click to see all skills</summary>
 
   **Programming Languages:**  
-  - Bash, Python, YAML  
+  - Bash, little bit Python, YAML  
   
   **Containerization:**  
   - Docker, Docker Compose
@@ -42,7 +45,7 @@ I am currently focusing on self-improvement and learning DevOps.
   - VPN, UFW, basic TCP/IP knowledge  
 
   **Operating Systems:**  
-  - Linux (Ubuntu, CentOS)
+  - Linux (Ubuntu, Debian, CentOS)
 
 </details>
 
