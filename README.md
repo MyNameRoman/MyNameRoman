@@ -72,6 +72,7 @@ I am currently focusing on self-improvement and learning DevOps. 🌱
 
   **Operating Systems:**  
   - Linux (Ubuntu, Debian, CentOS)
+  - Main system: Manjaro Linux
 
 ---
 
