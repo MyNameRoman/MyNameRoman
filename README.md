@@ -53,7 +53,7 @@ I am currently focusing on self-improvement and learning DevOps. 🌱
 ### 🛠️ Core Skills
 
   **Programming Languages:**  
-  - Bash, little bit Python, YAML  
+  - Bash
   
   **Containerization:**  
   - Docker, Docker Compose
@@ -62,17 +62,17 @@ I am currently focusing on self-improvement and learning DevOps. 🌱
   - Kubernetes (basic level)  
   
   **Monitoring:**  
-  - Prometheus, Grafana, Node Exporter  
+  - Prometheus, Grafana, Node Exporter, Zabbix
 
   **Automations:**  
   - Bash scripts, Ansible  
   
   **Networking & Security:**  
-  - VPN, UFW, basic TCP/IP knowledge  
+  - VPN (Outline, x3-ui vless + reality + flow), UFW, basic TCP/IP knowledge, AdGuard Home,  
 
   **Operating Systems:**  
-  - Linux (Ubuntu, Debian, CentOS)
-  - Main system: Manjaro Linux
+  - Administration: Linux (Ubuntu, Debian, CentOS)
+  - In personal use: Ubuntu (Linux mint), Arch (Manjaro)
 
 ---
 
