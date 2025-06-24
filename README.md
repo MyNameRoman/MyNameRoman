@@ -69,7 +69,8 @@ Microservices interaction (Docker/local), cron jobs, symbolic links
 - AdGuard Home setup for ad filtering and faster site loads  
 - Bash scripts automating log cleanup, disk space checks, and updates via cron and Telegram  
 - Security hardening: UFW, SSH keys, RKHunter, fail2ban, SSH port changes  
-- Enhancement of an automated job application script for HH.ru with features like automatic removal of rejected applications, resume boosting, and notifications on successful actions  
+- Enhancement of an automated job application script for HH.ru with features like automatic removal of rejected applications, resume boosting, and notifications on successful actions ([GitHub repo](https://github.com/MyNameRoman/hh-applicant-tool/tree/main/%2B%20features))
+
 
 ## 🌱 Future Plans
 
