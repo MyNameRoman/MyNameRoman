@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://github.com/MyNameRoman/MyNameRoman/raw/main/welcome-to-my-profile.gif?raw=true" height="170" />
-
+</div>
 
 ### 🧑‍💻 About Me
-</div>
+
 I am focused on learning and growing in DevOps and system administration since August 2024.  
 My goal is to automate processes, build reliable and efficient systems, and be a valuable team member. 🚀  
 Currently sharpening skills in monitoring, containerization, CI/CD, Linux administration, and security.
@@ -119,7 +119,6 @@ Microservices interaction (Docker/local), cron jobs, symbolic links
   <span style="display: inline-block; margin: 0 6px;">
     <img src="https://images.icon-icons.com/2699/PNG/512/rabbitmq_logo_icon_170810.png" height="96" />
   </span>
-</div>
 
 ---
 
