@@ -2,18 +2,16 @@
   <img src="https://github.com/MyNameRoman/MyNameRoman/raw/main/welcome-to-my-profile.gif?raw=true" height="170" />
 </div>
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 I am focused on learning and growing in DevOps and system administration since August 2024.  
 My goal is to automate processes, build reliable and efficient systems, and be a valuable team member. 🚀  
 Currently sharpening skills in monitoring, containerization, CI/CD, Linux administration, and security.
 
----
-
 <details>
 <summary>More about me</summary>
 
-### 🛠️ Core Skills & Tech Stack
+## 🛠️ Core Skills & Tech Stack
 
 **Monitoring & Alerting:**  
 Zabbix, Prometheus, Grafana, Alertmanager
@@ -39,9 +37,7 @@ Yandex Cloud
 **Architecture & Integrations:**  
 Microservices interaction (Docker/local), cron jobs, symbolic links
 
----
-
-### 🛠️ Responsibilities & Experience
+## 🛠️ Responsibilities & Experience
 
 - Monitoring services using Zabbix (diagnostics, escalation)  
 - Troubleshooting and scaling RabbitMQ, managing pod restarts  
@@ -55,9 +51,7 @@ Microservices interaction (Docker/local), cron jobs, symbolic links
 - Reporting and incident management  
 - Handling tickets via HelpDesk  
 
----
-
-### 🚀 Projects & Achievements
+## 🚀 Projects & Achievements
 
 **Freelance / VPN Project / Personal:**  
 - Migrated VPN from Outline to VLESS + Reality + Flow (xtls-rprx-vision)  
@@ -73,13 +67,11 @@ Microservices interaction (Docker/local), cron jobs, symbolic links
 **Additional projects:**  
 - Monitoring system: Prometheus + Grafana with Telegram alerts (15 min reaction time)  
 - AdGuard Home setup for ad filtering and faster site loads  
-- Bash scripts automating log cleanup, disk space checks, updates via cron and Telegram  
+- Bash scripts automating log cleanup, disk space checks, and updates via cron and Telegram  
 - Security hardening: UFW, SSH keys, RKHunter, fail2ban, SSH port changes  
-- Automated job applications on HH.ru (auto-removal of rejections, auto-resume boosts, notifications)  
+- Enhancement of an automated job application script for HH.ru with features like automatic removal of rejected applications, resume boosting, and notifications on successful actions  
 
----
-
-### 🌱 Future Plans
+## 🌱 Future Plans
 
 - Master Terraform for Infrastructure as Code (IaC)  
 - Deepen Kubernetes and CI/CD knowledge  
@@ -87,13 +79,12 @@ Microservices interaction (Docker/local), cron jobs, symbolic links
 
 </details>
 
-### 📬 Contact Me
+## 📬 Contact Me
 
 - Telegram: [@Chamomile211](https://t.me/Chamomile211)  
 - Email: mynameromanwork@gmail.com  
 
----
-
+## 🤖 DevOps stack
 <div align="center" style="white-space: nowrap;">
   <span style="display: inline-block; margin: 0 6px;">
     <img src="https://icon.icepanel.io/Technology/svg/Grafana.svg" height="96" />
