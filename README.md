@@ -80,11 +80,6 @@ Microservices interaction (Docker/local), cron jobs, symbolic links
 
 </details>
 
-## 📬 Contact Me
-
-- Telegram: [@Chamomile211](https://t.me/Chamomile211)  
-- Email: mynameromanwork@gmail.com  
-
 ## 🤖 DevOps stack
 <div align="center" style="white-space: nowrap;">
   <span style="display: inline-block; margin: 0 6px;">
