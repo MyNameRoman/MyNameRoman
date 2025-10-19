@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-I am focused on learning and growing in DevOps and system administration since August 2024.  
+I am focused on learning and growing in DevOps and system administration
 My goal is to automate processes, build reliable and efficient systems, and be a valuable team member. 🚀  
 Currently sharpening skills in monitoring, containerization, CI/CD, Linux administration, and security.
 
