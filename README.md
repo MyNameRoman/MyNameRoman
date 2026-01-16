@@ -4,8 +4,10 @@
 
 ## 🧑‍💻 About Me
 
-I am focused on learning and growing in DevOps and system administration
-My goal is to automate processes, build reliable and efficient systems, and be a valuable team member. 🚀  
+I am focused on learning and growing in DevOps and system administration.  
+Learning DevOps since **August 20, 2024**. 🚀  
+
+My goal is to automate processes, build reliable and efficient systems, and be a valuable team member.  
 Currently sharpening skills in monitoring, containerization, CI/CD, Linux administration, and security.
 
 <details>
@@ -53,12 +55,45 @@ Microservices interaction (Docker/local), cron jobs, symbolic links
 
 ## 🚀 Projects & Achievements
 
-**Freelance / VPN Project / Personal:**  
-- Migrated VPN from Outline to VLESS + Reality + Flow (xtls-rprx-vision)  
-- Tuned BBR, automated geo-file updates, scheduled nightly backups  
-- Implemented Telegram alerts for monitoring  
-- Supported 15+ users with 4+ TB monthly traffic, providing setup and help  
-- Resulted in 60% speed increase and 45% latency reduction  
+**Freelance / VPN Infrastructure Project / Personal:**  
+
+- Designed and deployed a production-grade VPN infrastructure on VPS (Latvia, USA)  
+- Migrated from Outline to xRay VLESS (Flow, Reality → TLS XHTTP) with x-3ui  
+- Built a multi-region setup with fully replicated infrastructure (EU + US)  
+
+**Infrastructure & Networking:**  
+- Debian-based servers with UFW, Fail2Ban, Cron automation  
+- Domain management: purchase, A/AAAA records, subdomains, VPS binding  
+- Dedicated inbound for subscriptions on a separate subdomain (restricted access)  
+- Fake DNS, AdGuard DNS, fallback Google DNS  
+- Traffic sniffing (HTTP/TLS), TLS ECH, ALPN  
+- Optimized TCP stack (BBR), MTU tuning, multiplexing  
+
+**Reverse Proxy & Security:**  
+- Nginx as a reverse proxy  
+- HTTP → HTTPS redirect  
+- TLS 1.2–1.3, HTTP/2  
+- Traffic separation: panel / subscriptions  
+- Restricted access to private endpoints  
+
+**Automation & Monitoring:**  
+- Automated geo-file updates  
+- Log rotation and cleanup  
+- Daily selective backups of configs and inbound data  
+- Backups delivered to Yandex.Disk via WebDAV  
+- Telegram bot for monitoring, alerts, and user traffic visibility  
+
+**Client Support & Operations:**  
+- Supported 10+ active users with 10+ TB monthly traffic  
+- User documentation and onboarding  
+- Client-side optimization: routing rules, app-specific configs  
+- Domain and DNS configuration for client needs  
+
+**Achievements:**  
+- Stable VPN connectivity across mobile and desktop devices  
+- Reduced device load via protocol optimization (Reality → XHTTP)  
+- Scalable, secure infrastructure resistant to DPI  
+- Fully isolated and protected subscription inbound with automatic sync  
 
 **Ansible Automation:**  
 - Configured Docker and Nginx with playbooks  
@@ -70,7 +105,6 @@ Microservices interaction (Docker/local), cron jobs, symbolic links
 - Bash scripts automating log cleanup, disk space checks, and updates via cron and Telegram  
 - Security hardening: UFW, SSH keys, RKHunter, fail2ban, SSH port changes  
 - Enhancement of an automated job application script for HH.ru with features like automatic removal of rejected applications, resume boosting, and notifications on successful actions ([GitHub repo](https://github.com/MyNameRoman/hh-applicant-tool/tree/main/%2B%20features))
-
 
 ## 🌱 Future Plans
 
@@ -105,6 +139,23 @@ Microservices interaction (Docker/local), cron jobs, symbolic links
   </span>
   <span style="display: inline-block; margin: 0 6px;">
     <img src="https://images.icon-icons.com/2699/PNG/512/rabbitmq_logo_icon_170810.png" height="96" />
+  </span>
+
+  <!-- Added stack -->
+  <span style="display: inline-block; margin: 0 6px;">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nginx-icon.png" height="96" />
+  </span>
+  <span style="display: inline-block; margin: 0 6px;">
+    <img src="https://avatars.githubusercontent.com/u/1087378?s=280&v=4" height="96" />
+  </span>
+  <span style="display: inline-block; margin: 0 6px;">
+    <img src="https://grafikart.fr/uploads/icons/ufw.png" height="96" />
+  </span>
+  <span style="display: inline-block; margin: 0 6px;">
+    <img src="https://www-assets.kolide.com/assets/inventory/device_properties/icons/crontab-bd165ccf.png" height="96" />
+  </span>
+  <span style="display: inline-block; margin: 0 6px;">
+    <img src="https://miro.medium.com/1*YVTFl1UEkt3_rkez-DIU9w.png" height="96" />
   </span>
 
 ---
