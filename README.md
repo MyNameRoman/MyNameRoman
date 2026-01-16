@@ -2,6 +2,12 @@
   <img src="https://github.com/MyNameRoman/MyNameRoman/raw/main/welcome-to-my-profile.gif?raw=true" height="170" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MyNameRoman&color=blueviolet&style=for-the-badge" />
+</p>
+
+
+
 ## 🧑‍💻 About Me
 
 I am focused on learning and growing in DevOps and system administration.  
