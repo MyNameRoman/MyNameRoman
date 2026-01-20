@@ -31,7 +31,7 @@ Kubernetes, Docker, Docker Compose, TeamCity, GitHub, Ansible
 Linux (Ubuntu, Debian), Bash, Active Directory, EMPO, VMware, Terminal Service Manager, JumpServer
 
 **Networking & Security:**  
-VPN (3x-ui, VLESS, Reality, Outline), TCP/IP, UFW, DNS, AdGuard Home, fail2ban, SSH port changes for security
+VPN (3x-ui, VLESS, Reality, XHTTP, Outline), TCP/IP, UFW, DNS, AdGuard Home, CloudFlaire, fail2ban
 
 **Message Brokers:**  
 RabbitMQ
@@ -71,7 +71,7 @@ Microservices interaction (Docker/local), cron jobs, symbolic links
 - Debian-based servers with UFW, Fail2Ban, Cron automation  
 - Domain management: purchase, A/AAAA records, subdomains, VPS binding  
 - Dedicated inbound for subscriptions on a separate subdomain (restricted access)  
-- Fake DNS, AdGuard DNS, fallback Google DNS  
+- Fake DNS
 - Traffic sniffing (HTTP/TLS), TLS ECH, ALPN  
 - Optimized TCP stack (BBR), MTU tuning, multiplexing  
 
@@ -90,7 +90,7 @@ Microservices interaction (Docker/local), cron jobs, symbolic links
 - Telegram bot for monitoring, alerts, and user traffic visibility  
 
 **Client Support & Operations:**  
-- Supported 10+ active users with 10+ TB monthly traffic  
+- Supported 15+ active users with 10+ TB monthly traffic  
 - User documentation and onboarding  
 - Client-side optimization: routing rules, app-specific configs  
 - Domain and DNS configuration for client needs  
