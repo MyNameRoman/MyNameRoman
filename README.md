@@ -146,23 +146,10 @@ Microservices interaction (Docker/local), cron jobs, symbolic links
   <span style="display: inline-block; margin: 0 6px;">
     <img src="https://images.icon-icons.com/2699/PNG/512/rabbitmq_logo_icon_170810.png" height="96" />
   </span>
-
-  <!-- Added stack -->
   <span style="display: inline-block; margin: 0 6px;">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nginx-icon.png" height="96" />
   </span>
   <span style="display: inline-block; margin: 0 6px;">
-    <img src="https://avatars.githubusercontent.com/u/1087378?s=280&v=4" height="96" />
-  </span>
-  <span style="display: inline-block; margin: 0 6px;">
-    <img src="https://grafikart.fr/uploads/icons/ufw.png" height="96" />
-  </span>
-  <span style="display: inline-block; margin: 0 6px;">
-    <img src="https://www-assets.kolide.com/assets/inventory/device_properties/icons/crontab-bd165ccf.png" height="96" />
-  </span>
-  <span style="display: inline-block; margin: 0 6px;">
-    <img src="https://miro.medium.com/1*YVTFl1UEkt3_rkez-DIU9w.png" height="96" />
-  </span>
 
 ---
 
