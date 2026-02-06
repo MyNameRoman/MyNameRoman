@@ -141,9 +141,6 @@ Microservices interaction (Docker/local), cron jobs, symbolic links
     <img src="https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png" height="96" />
   </span>
   <span style="display: inline-block; margin: 0 6px;">
-    <img src="https://images.icon-icons.com/350/PNG/512/bash_36261.png" height="96" />
-  </span>
-  <span style="display: inline-block; margin: 0 6px;">
     <img src="https://images.icon-icons.com/2699/PNG/512/rabbitmq_logo_icon_170810.png" height="96" />
   </span>
   <span style="display: inline-block; margin: 0 6px;">
