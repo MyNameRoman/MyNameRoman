@@ -71,7 +71,6 @@ Working as a 2nd line sysadmin at **[GK Arti](https://arti.ru)**.
 **Automation & Monitoring:**  
 - Ansible playbooks for Docker & Nginx  
 - Prometheus + Grafana monitoring with Telegram alerts  
-- AdGuard Home for ad filtering & speed  
 - Bash scripts: log cleanup, disk checks, cron updates  
 - Security hardening: UFW, SSH keys, RKHunter, Fail2Ban, SSH port changes  
 - HH.ru automation enhancements ([repo](https://github.com/MyNameRoman/hh-applicant-tool/tree/main/%2B%20features))
