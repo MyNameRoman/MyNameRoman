@@ -6,115 +6,78 @@
   <img src="https://komarev.com/ghpvc/?username=MyNameRoman&color=blueviolet&style=for-the-badge" />
 </p>
 
-
-
 ## 🧑‍💻 About Me
 
 I am focused on learning and growing in DevOps and system administration.  
 Learning DevOps since **August 20, 2024**. 🚀  
 
 My goal is to automate processes, build reliable and efficient systems, and be a valuable team member.  
-Currently sharpening skills in monitoring, containerization, CI/CD, Linux administration, and security.
+Currently sharpening skills in monitoring, containerization, CI/CD, Linux administration, and security.  
+Working as a 2nd line sysadmin at **[GK Arti](https://arti.ru)**.
 
 <details>
 <summary>More about me</summary>
 
 ## 🛠️ Core Skills & Tech Stack
 
-**Monitoring & Alerting:**  
-Zabbix, Prometheus, Grafana, Alertmanager
-
-**Containerization & CI/CD:**  
-Kubernetes, Docker, Docker Compose, TeamCity, GitHub, Ansible
-
-**System Administration:**  
-Linux (Ubuntu, Debian), Bash, Active Directory, EMPO, VMware, Terminal Service Manager, JumpServer
-
-**Networking & Security:**  
-VPN (3x-ui, VLESS, Reality, XHTTP, Outline), TCP/IP, UFW, DNS, AdGuard Home, CloudFlaire, fail2ban
-
-**Message Brokers:**  
-RabbitMQ
-
-**Remote Access & Management:**  
-AnyDesk, RDP, MobXterm, Termius
-
-**Cloud Platforms:**  
-Yandex Cloud
-
-**Architecture & Integrations:**  
-Microservices interaction (Docker/local), cron jobs, symbolic links
+**Monitoring & Alerting:** Zabbix, Prometheus, Grafana, Alertmanager  
+**Containerization & CI/CD:** Kubernetes, Docker, Docker Compose, TeamCity, GitHub, Ansible  
+**System Administration:** Linux (Ubuntu, Debian), Bash, Active Directory, EMPO, VMware, Terminal Service Manager, JumpServer  
+**Networking & Security:** VPN (xRay VLESS, Reality, Flow, 3x-ui, XHTTP, Outline, FortiClient), TCP/IP, UFW, DNS, AdGuard Home, CloudFlare, fail2ban  
+**Message Brokers:** RabbitMQ  
+**Remote Access & Management:** AnyDesk, RDP, MobXterm, Termius  
+**Cloud Platforms:** Yandex Cloud  
+**Architecture & Integrations:** Microservices interaction (Docker/local), cron jobs, symbolic links
 
 ## 🛠️ Responsibilities & Experience
 
-- Monitoring services using Zabbix (diagnostics, escalation)  
-- Troubleshooting and scaling RabbitMQ, managing pod restarts  
+- Monitoring services with Zabbix (diagnostics, escalation)  
+- Troubleshooting/scaling RabbitMQ, pod management  
 - Using EMPO for investigations and object analysis  
-- Administering Active Directory: managing access, locks, accounts  
-- Configuring VPNs and Avaya telephony; supporting staff via AnyDesk, RDP  
-- Managing Kubernetes pods: restarts and scaling  
+- Administering Active Directory: access, locks, accounts  
+- Configuring VPNs & FortiClient, staff support via AnyDesk/RDP  
+- Kubernetes pod management: restarts & scaling  
 - Participating in releases via TeamCity  
-- Collaborating through Confluence and service owners  
-- Terminal management: restarting services, session handling, monitoring  
-- Reporting and incident management  
-- Handling tickets via HelpDesk  
+- Confluence collaboration and service owner coordination  
+- Terminal management: service restart, session handling  
+- Incident management & ticket handling  
 
 ## 🚀 Projects & Achievements
 
-**Freelance / VPN Infrastructure Project / Personal:**  
+**RaikoNet / Personal VPN:**  
+- Production-grade VPN on VPS (EU + US)  
+- Protocol evolution: VLESS+Reality → XHTTP+TLS → VLESS+Reality+XTLS  
+- Multi-region fully replicated setup  
+- Fake DNS, metadata-only sniffing, TLS 1.2–1.3, HTTP/2, ECH, ALPN  
+- Traffic separation (panel/subscriptions via Nginx)  
+- Security: UFW, Fail2Ban, automated backups & Telegram monitoring bot  
+- 10+ users, 10+ TB monthly, reduced device load, stable connections
 
-- Designed and deployed a production-grade VPN infrastructure on VPS (Latvia, USA)  
-- Migrated from Outline to xRay VLESS (Flow, Reality → TLS XHTTP) with x-3ui  
-- Built a multi-region setup with fully replicated infrastructure (EU + US)  
+**LatvianVPN / Freelance (no longer active):**  
+- VPS deployment (EU), migration Ubuntu → Debian  
+- Migration from Outline → x-3ui + VLESS  
+- Auto-updates, backups, Telegram notifications  
+- 20+ active users, 17+ TB monthly traffic  
+- Reduced latency & improved throughput, fully automated server operations
 
-**Infrastructure & Networking:**  
-- Debian-based servers with UFW, Fail2Ban, Cron automation  
-- Domain management: purchase, A/AAAA records, subdomains, VPS binding  
-- Dedicated inbound for subscriptions on a separate subdomain (restricted access)  
-- Fake DNS
-- Traffic sniffing (HTTP/TLS), TLS ECH, ALPN  
-- Optimized TCP stack (BBR), MTU tuning, multiplexing  
-
-**Reverse Proxy & Security:**  
-- Nginx as a reverse proxy  
-- HTTP → HTTPS redirect  
-- TLS 1.2–1.3, HTTP/2  
-- Traffic separation: panel / subscriptions  
-- Restricted access to private endpoints  
+**Caesar Satellite / Corporate (no longer active):**  
+- Monitoring servers, network, microservices (Zabbix)  
+- Kubernetes, RabbitMQ, TeamCity, Active Directory  
+- VPN support (FortiClient), Avaya telephony  
+- Ticket handling, user support, documentation  
+- Incident diagnostics & escalation  
+- Independent and stable work from day 2, praised by senior engineers
 
 **Automation & Monitoring:**  
-- Automated geo-file updates  
-- Log rotation and cleanup  
-- Daily selective backups of configs and inbound data  
-- Backups delivered to Yandex.Disk via WebDAV  
-- Telegram bot for monitoring, alerts, and user traffic visibility  
-
-**Client Support & Operations:**  
-- Supported 15+ active users with 10+ TB monthly traffic  
-- User documentation and onboarding  
-- Client-side optimization: routing rules, app-specific configs  
-- Domain and DNS configuration for client needs  
-
-**Achievements:**  
-- Stable VPN connectivity across mobile and desktop devices  
-- Reduced device load via protocol optimization (Reality → XHTTP)  
-- Scalable, secure infrastructure resistant to DPI  
-- Fully isolated and protected subscription inbound with automatic sync  
-
-**Ansible Automation:**  
-- Configured Docker and Nginx with playbooks  
-- Managed dynamic and static inventories  
-
-**Additional projects:**  
-- Monitoring system: Prometheus + Grafana with Telegram alerts (15 min reaction time)  
-- AdGuard Home setup for ad filtering and faster site loads  
-- Bash scripts automating log cleanup, disk space checks, and updates via cron and Telegram  
-- Security hardening: UFW, SSH keys, RKHunter, fail2ban, SSH port changes  
-- Enhancement of an automated job application script for HH.ru with features like automatic removal of rejected applications, resume boosting, and notifications on successful actions ([GitHub repo](https://github.com/MyNameRoman/hh-applicant-tool/tree/main/%2B%20features))
+- Ansible playbooks for Docker & Nginx  
+- Prometheus + Grafana monitoring with Telegram alerts  
+- Bash scripts: log cleanup, disk checks, cron updates  
+- Security hardening: UFW, SSH keys, RKHunter, Fail2Ban, SSH port changes  
+- HH.ru automation enhancements ([repo](https://github.com/MyNameRoman/hh-applicant-tool/tree/main/%2B%20features))
 
 ## 🌱 Future Plans
 
-- Master Terraform for Infrastructure as Code (IaC)  
+- Master Terraform for IaC  
 - Deepen Kubernetes and CI/CD knowledge  
 - Contribute to open-source projects  
 
@@ -122,33 +85,12 @@ Microservices interaction (Docker/local), cron jobs, symbolic links
 
 ## 🤖 DevOps stack
 <div align="center" style="white-space: nowrap;">
-  <span style="display: inline-block; margin: 0 6px;">
-    <img src="https://icon.icepanel.io/Technology/svg/Grafana.svg" height="96" />
-  </span>
-  <span style="display: inline-block; margin: 0 6px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-128/docker-3628734-3029959.png" height="96" />
-  </span>
-  <span style="display: inline-block; margin: 0 6px;">
-    <img src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" height="96" />
-  </span>
-  <span style="display: inline-block; margin: 0 6px;">
-    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" height="96" />
-  </span>
-  <span style="display: inline-block; margin: 0 6px;">
-    <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" height="96" />
-  </span>
-  <span style="display: inline-block; margin: 0 6px;">
-    <img src="https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png" height="96" />
-  </span>
-  <span style="display: inline-block; margin: 0 6px;">
-    <img src="https://images.icon-icons.com/2699/PNG/512/rabbitmq_logo_icon_170810.png" height="96" />
-  </span>
-  <span style="display: inline-block; margin: 0 6px;">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nginx-icon.png" height="96" />
-  </span>
-  <span style="display: inline-block; margin: 0 6px;">
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyNameRoman&show_icons=true&theme=tokyonight)  
+  <span style="display: inline-block; margin: 0 6px;"><img src="https://icon.icepanel.io/Technology/svg/Grafana.svg" height="96" /></span>
+  <span style="display: inline-block; margin: 0 6px;"><img src="https://cdn.iconscout.com/icon/free/png-128/docker-3628734-3029959.png" height="96" /></span>
+  <span style="display: inline-block; margin: 0 6px;"><img src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" height="96" /></span>
+  <span style="display: inline-block; margin: 0 6px;"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" height="96" /></span>
+  <span style="display: inline-block; margin: 0 6px;"><img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" height="96" /></span>
+  <span style="display: inline-block; margin: 0 6px;"><img src="https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png" height="96" /></span>
+  <span style="display: inline-block; margin: 0 6px;"><img src="https://images.icon-icons.com/2699/PNG/512/rabbitmq_logo_icon_170810.png" height="96" /></span>
+  <span style="display: inline-block; margin: 0 6px;"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nginx-icon.png" height="96" /></span>
 </div>
