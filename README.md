@@ -13,7 +13,7 @@ Learning DevOps since **August 20, 2024**. 🚀
 
 My goal is to automate processes, build reliable and efficient systems, and be a valuable team member.  
 Currently sharpening skills in monitoring, containerization, CI/CD, Linux administration, and security.  
-Working as a 2nd line sysadmin at **[GK Arti](https://arti.ru)**.
+Working as a 2nd line sysadmin at **[GC Arti](https://arti.ru)**.
 
 <details>
 <summary>More about me</summary>
